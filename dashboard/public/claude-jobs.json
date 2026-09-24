@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-23T08:04:04.480452+00:00",
-  "totalJobs": 93,
+  "lastUpdated": "2026-09-24T07:53:36.437180+00:00",
+  "totalJobs": 94,
   "sources": [
     "Anthropic",
     "HackerNews",
@@ -8,6 +8,27 @@
     "WeWorkRemotely"
   ],
   "jobs": [
+    {
+      "id": "anth-5382518008",
+      "company": "Anthropic",
+      "position": "Applied AI Architect, Public Sector ",
+      "location": "San Francisco, CA | New York City, NY",
+      "remote": false,
+      "salary": "",
+      "description": "As an Applied AI team member at Anthropic, you will be a Pre-Sales architect focused on becoming a trusted technical advisor helping systems integrators, startups, and other GovTech companies understand the value of Claude and paint the vision on how they can successfully integrate and deploy...",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5382518008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5382518008",
+      "postedAt": "2026-09-23T13:17:43-04:00",
+      "tags": [
+        "Python",
+        "Rust",
+        "AWS",
+        "Claude Code",
+        "Anthropic"
+      ],
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
     {
       "id": "anth-5428790008",
       "company": "Anthropic",
@@ -109,26 +130,6 @@
         "GraphQL"
       ],
       "companyIcon": ""
-    },
-    {
-      "id": "anth-5425724008",
-      "company": "Anthropic",
-      "position": "Associate Solutions Architect",
-      "location": "London, UK",
-      "remote": false,
-      "salary": "",
-      "description": "We're looking for an Associate Solutions Architect to join our Applied AI team and help drive the adoption of Claude Code across our enterprise customers. As an Associate SA specializing in Claude Code, you'll be the technical bridge between our cutting-edge AI coding assistant and the engineering...",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5425724008",
-      "source": "Anthropic",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5425724008",
-      "postedAt": "2026-09-16T12:20:01-04:00",
-      "tags": [
-        "Rust",
-        "AWS",
-        "Claude Code",
-        "Anthropic"
-      ],
-      "companyIcon": "https://www.anthropic.com/favicon.ico"
     },
     {
       "id": "anth-5421566008",
@@ -1870,6 +1871,28 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5096878008",
       "postedAt": "2026-01-26T16:58:37-05:00",
       "tags": [
+        "Rust",
+        "AWS",
+        "Claude Code",
+        "Anthropic"
+      ],
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
+    {
+      "id": "anth-5074908008",
+      "company": "Anthropic",
+      "position": "Staff+ Software Engineer, Safeguards Infrastructure ",
+      "location": "London, UK",
+      "remote": false,
+      "salary": "",
+      "description": "We are looking for software engineers to help build the foundational pieces for safety, oversight and intervention mechanisms of our AI systems. As a software engineer on the Safeguards team, you will work to monitor models, prevent misuse, and ensure user well-being. This role will focus on...",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5074908008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5074908008",
+      "postedAt": "2026-01-21T12:42:00-05:00",
+      "tags": [
+        "TypeScript",
+        "Python",
         "Rust",
         "AWS",
         "Claude Code",
